@@ -2,7 +2,7 @@
 
 A simple containerized environment setup with Docker and Docker Compose comprising of a Python app with MySQL running on NginX.
 
-![Docker Compose Architecture](images\environment-architecture.png)
+![Docker Compose Architecture](images/environment-architecture.png)
 
 ## Build Process
 1. Clone this repository.
@@ -15,7 +15,7 @@ A simple containerized environment setup with Docker and Docker Compose comprisi
 
 If everything succssefully builds, and starts then point your browser to `http://localhost` and verify the following is rendered:
 
-![Result Image](images\result-image.jpg)
+![Result Image](images/result-image.jpg)
 
 
 
