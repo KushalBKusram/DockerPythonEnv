@@ -6,7 +6,7 @@ A simple containerized environment setup with Docker and Docker Compose comprisi
 
 ## Build Process
 1. Clone this repository.
-2. Build and run with `$ docker-compose up -d`
+2. Build and run with `docker-compose up -d`
 3. Or to perform them separately:
    - `docker-compose build`
    - `docker-compose up -d`
