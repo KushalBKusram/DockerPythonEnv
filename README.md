@@ -13,7 +13,7 @@ A simple containerized environment setup with Docker and Docker Compose comprisi
 
 ## Result
 
-If everything builds successfully and starts, then point your browser to `http://localhost` and verify the following is rendered:
+If everything builds successfully and starts, then point your browser to `http://localhost` to verify successful deployment of the environment with the following page rendered:
 
 ![Result Image](images/result-image.jpg)
 
