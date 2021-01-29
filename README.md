@@ -17,8 +17,8 @@ If everything builds successfully and starts, then point your browser to `http:/
 
 ![Result Image](images/result-image.jpg)
 
-### Source
-To create this repository, followed a series of blog posts from here: [python-env-series](https://www.docker.com/blog/tag/python-env-series/)
+### Reference
+Followed a series of blog posts from [here](https://www.docker.com/blog/tag/python-env-series/) to create this repository.
 
 
 
